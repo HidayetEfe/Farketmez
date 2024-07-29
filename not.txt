@@ -22,3 +22,8 @@ h1 h2 h3 h4 h5 h6 sayılar artıkça başlık boyutu küçülür
  # ve color kodu ile dışarıdan aldığımız rengi kullanabiliriz
  opaklik opacity ile kullanılır veya rgb yerine rgba kullanılabilir
  elementlerin yerini değiştirmek için margin kullanılır
+eğer buton block olursa yanına bişey eklenmez ama inline-block olursa eklenir
+icon değiştirmek için önce https://cdnjs.com/libraries/font-awesome sitesinden bir link alıp link rel="stylesheet" href=" yazın sonra https://fontawesome.com/v4/icons/ istediğiniz ikonu alıp <i class="fa fa-search"></i> bu tür bişey yapabilirsiniz
+1 em her zaman font-size eşittir
+rem 16 pixeldir hiçbir zaman değişmez
+view width 10 olursa ekranın %10 unu kaplar
