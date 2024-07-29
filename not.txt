@@ -1,0 +1,24 @@
+meta etiketleri sayfa hakkında bilgi verir
+
+charset sayfanın unicode tipini belirtir
+https://wmaraci.com/nedir/unicode
+utf-8 de Türkçe karakterker kullanılabilir
+
+viewport ekranın genişliğiyle ilgilidir
+name in arasında yazdığımız şeyler meta etiketinin adıdır
+contentin arasında yazdığımız şey meta etiketinin içeriğidir
+description= açıklama
+keywords= anahtar kelime
+author=yapan kişi
+<div> blok element ve <span>inline element diğer elementleri içinde tutan boş birer kutucuk
+div kapladığı alan değiştirilebilirkirken span değişmez
+özellikler ID ye göre verilir ID aynı olamaz
+class sınıflandırırken kullanılır
+h1 h2 h3 h4 h5 h6 sayılar artıkça başlık boyutu küçülür
+ p etiketinde daha uzun şeyler yazılır
+ sesin veya videonun çalışması için controls eklenmelidir
+ listelemede ol 1 veya a karakterlerini yapar
+ placeholder form kullanıken arka planda yazının silik gözükmesini sağlar
+ # ve color kodu ile dışarıdan aldığımız rengi kullanabiliriz
+ opaklik opacity ile kullanılır veya rgb yerine rgba kullanılabilir
+ 
