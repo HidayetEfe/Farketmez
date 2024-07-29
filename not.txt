@@ -21,4 +21,4 @@ h1 h2 h3 h4 h5 h6 sayılar artıkça başlık boyutu küçülür
  placeholder form kullanıken arka planda yazının silik gözükmesini sağlar
  # ve color kodu ile dışarıdan aldığımız rengi kullanabiliriz
  opaklik opacity ile kullanılır veya rgb yerine rgba kullanılabilir
- 
+ elementlerin yerini değiştirmek için margin kullanılır
